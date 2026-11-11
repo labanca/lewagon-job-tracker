@@ -56,7 +56,7 @@ export default function ApplicationsPage() {
   return (
     <>
       <section className="flex flex-col gap-4">
-        <h1 className="font-bold text-2xl">Applications</h1>
+        <h1 className="font-bold text-2xl">Job Applications</h1>
         <ApplicationForm />
       </section>
       <section className="flex flex-col gap-4">
