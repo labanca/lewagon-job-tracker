@@ -16,6 +16,9 @@ export default function TrackerLayout({
             <Link href="/applications" className="font-semibold">
               Job Tracker
             </Link>
+            <Link href="/dashboard" className="hover:underline">
+              Dashboard
+            </Link>
             <Link href="/applications" className="hover:underline">
               Applications
             </Link>
